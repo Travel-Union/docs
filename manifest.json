@@ -67,12 +67,8 @@
     {
       "id": "TC",
       "title": "Terms and Conditions",
-      "current": "5",
+      "current": "4",
       "versions": [
-        {
-          "version": "5",
-          "file": "TC_5.html"
-        },
         {
           "version": "4",
           "file": "TC.html"
@@ -115,12 +111,8 @@
     {
       "id": "TCB",
       "title": "Terms and Conditions for Business",
-      "current": "7",
+      "current": "6",
       "versions": [
-        {
-          "version": "7",
-          "file": "TCB_7.html"
-        },
         {
           "version": "6",
           "file": "TCB_6.html"
