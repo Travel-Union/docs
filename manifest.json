@@ -1,0 +1,194 @@
+{
+  "baseUrl": "https://travel-union.github.io/docs",
+  "defaultLocale": "en",
+  "documents": [
+    {
+      "id": "PP",
+      "title": "Privacy Policy",
+      "current": "1",
+      "versions": [
+        {
+          "version": "1",
+          "default": "PP.html",
+          "files": {
+            "bg": "PP_bg.html",
+            "cs": "PP_cs.html",
+            "da": "PP_da.html",
+            "de": "PP_de.html",
+            "el": "PP_el.html",
+            "en": "PP_en.html",
+            "es": "PP_es.html",
+            "et": "PP_et.html",
+            "fr": "PP_fr.html",
+            "it": "PP_it.html",
+            "lt": "PP_lt.html",
+            "lv": "PP_lv.html",
+            "pl": "PP_pl.html",
+            "ro": "PP_ro.html",
+            "ru": "PP_ru.html",
+            "sk": "PP_sk.html",
+            "uk": "PP_uk.html",
+            "zh": "PP_zh.html"
+          }
+        }
+      ]
+    },
+    {
+      "id": "PPC",
+      "title": "Privacy Policy for Children",
+      "current": "1",
+      "versions": [
+        {
+          "version": "1",
+          "default": "PPC.html",
+          "files": {
+            "bg": "PPC_bg.html",
+            "cs": "PPC_cs.html",
+            "da": "PPC_da.html",
+            "de": "PPC_de.html",
+            "el": "PPC_el.html",
+            "en": "PPC_en.html",
+            "es": "PPC_es.html",
+            "et": "PPC_et.html",
+            "fr": "PPC_fr.html",
+            "it": "PPC_it.html",
+            "lt": "PPC_lt.html",
+            "lv": "PPC_lv.html",
+            "pl": "PPC_pl.html",
+            "ro": "PPC_ro.html",
+            "ru": "PPC_ru.html",
+            "sk": "PPC_sk.html",
+            "uk": "PPC_uk.html",
+            "zh": "PPC_zh.html"
+          }
+        }
+      ]
+    },
+    {
+      "id": "TC",
+      "title": "Terms and Conditions",
+      "current": "5",
+      "versions": [
+        {
+          "version": "5",
+          "file": "TC_5.html"
+        },
+        {
+          "version": "4",
+          "file": "TC.html"
+        }
+      ]
+    },
+    {
+      "id": "TL",
+      "title": "Terms of Loyalty",
+      "current": "1",
+      "versions": [
+        {
+          "version": "1",
+          "file": "TL.html"
+        }
+      ]
+    },
+    {
+      "id": "CH",
+      "title": "Complaints Handling",
+      "current": "1",
+      "versions": [
+        {
+          "version": "1",
+          "file": "CH.html"
+        }
+      ]
+    },
+    {
+      "id": "CP",
+      "title": "Candidate Policy Notice",
+      "current": "1",
+      "versions": [
+        {
+          "version": "1",
+          "file": "CP.html"
+        }
+      ]
+    },
+    {
+      "id": "TCB",
+      "title": "Terms and Conditions for Business",
+      "current": "7",
+      "versions": [
+        {
+          "version": "7",
+          "file": "TCB_7.html"
+        },
+        {
+          "version": "6",
+          "file": "TCB_6.html"
+        },
+        {
+          "version": "5",
+          "file": "TCB_5.html"
+        }
+      ]
+    },
+    {
+      "id": "TCA",
+      "title": "Terms and Conditions for Acquiring",
+      "current": "1",
+      "versions": [
+        {
+          "version": "1",
+          "file": "TCA.html"
+        }
+      ]
+    },
+    {
+      "id": "RC",
+      "title": "Restricted Countries List",
+      "current": "1",
+      "versions": [
+        {
+          "version": "1",
+          "file": "RC.html"
+        }
+      ]
+    },
+    {
+      "id": "PA",
+      "title": "Prohibited Activities List",
+      "current": "1",
+      "versions": [
+        {
+          "version": "1",
+          "file": "PA.html"
+        }
+      ]
+    },
+    {
+      "id": "CookiePolicy",
+      "title": "Cookie Policy",
+      "current": "1",
+      "versions": [
+        {
+          "version": "1",
+          "default": "https://mytu.co/docs/CookiePolicy_en.pdf",
+          "files": {
+            "en": "https://mytu.co/docs/CookiePolicy_en.pdf",
+            "lt": "https://mytu.co/docs/CookiePolicy_lt.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "TPP_API",
+      "title": "Third Party Provider API Documentation",
+      "current": "1",
+      "versions": [
+        {
+          "version": "1",
+          "file": "https://apidoc.mytu.co/"
+        }
+      ]
+    }
+  ]
+}
