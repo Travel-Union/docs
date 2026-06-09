@@ -111,8 +111,12 @@
     {
       "id": "TCB",
       "title": "Terms and Conditions for Business",
-      "current": "6",
+      "current": "7",
       "versions": [
+        {
+          "version": "7",
+          "file": "TCB_7.html"
+        },
         {
           "version": "6",
           "file": "TCB_6.html"
