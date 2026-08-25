@@ -165,6 +165,34 @@
       ]
     },
     {
+      "id": "EI",
+      "title": "Entgeltinformation",
+      "current": "1",
+      "versions": [
+        {
+          "version": "1",
+          "default": "EI_de.pdf",
+          "files": {
+            "de": "EI_de.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ZKG_Glossar",
+      "title": "Glossar zu mit einem Zahlungskonto verbundenen Diensten",
+      "current": "1",
+      "versions": [
+        {
+          "version": "1",
+          "default": "ZKG_Glossar_de.pdf",
+          "files": {
+            "de": "ZKG_Glossar_de.pdf"
+          }
+        }
+      ]
+    },
+    {
       "id": "CookiePolicy",
       "title": "Cookie Policy",
       "current": "1",
