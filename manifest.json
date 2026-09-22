@@ -67,8 +67,12 @@
     {
       "id": "TC",
       "title": "Terms and Conditions",
-      "current": "5",
+      "current": "6",
       "versions": [
+        {
+          "version": "6",
+          "file": "TC_6.html"
+        },
         {
           "version": "5",
           "file": "TC_5.html"
